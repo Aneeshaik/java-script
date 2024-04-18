@@ -1,0 +1,2 @@
+"use strict"; //used to treat whole code in newer version of js
+//alert(6+9) alert cannot be used in nodejs
